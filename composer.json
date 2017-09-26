@@ -1,0 +1,12 @@
+{
+  "name": "okeyaki/pimple-explicit",
+  "license": "MIT",
+  "require": {
+    "pimple/pimple": "^2.0.0|^3.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Okeyaki\\Pimple\\": "src"
+    }
+  }
+}
